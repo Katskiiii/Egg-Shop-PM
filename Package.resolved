@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "ocgui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OnslowCollege/OCGUI.git",
+      "state" : {
+        "revision" : "17dab175b70e6ec9fdc9d5d3571022e3a58a516b",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "pythonkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pvieito/PythonKit.git",
+      "state" : {
+        "revision" : "81f621d094a7c8923207efe5178f50dba1b56c39",
+        "version" : "0.3.1"
+      }
+    }
+  ],
+  "version" : 2
+}
